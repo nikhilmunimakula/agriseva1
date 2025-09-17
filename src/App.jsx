@@ -9,7 +9,7 @@ import AdvisoryPage from './pages/AdvisoryPage';
 import WeatherPage from './pages/WeatherPage';
 import LoginPage from './pages/LoginPage';
 import CropHealthPage from './pages/CropHealthPage';
-import MarketplacePage from './pages/MarketplacePage';
+import MarketplacePage from './pages/MarketPlacePage';
 import SettingsPage from './pages/SettingsPage';
 
 function App() {
