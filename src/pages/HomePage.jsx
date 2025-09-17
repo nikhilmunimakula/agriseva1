@@ -23,7 +23,7 @@ const HomePage = () => {
       alignItems: 'center',
       textAlign: 'center',
       padding: '19rem 0',
-      backgroundImage:'url(/wallpaper.png)',
+      backgroundImage:"url('/wallpaper.png')",
       backgroundSize: 'cover',
       backgroundColor: 'white',
       borderRadius: '1rem',
@@ -141,5 +141,6 @@ const HomePage = () => {
     </>
   );
 };
+
 
 export default HomePage;
